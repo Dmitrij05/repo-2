@@ -1,0 +1,2 @@
+Отличие ветки master от ветки demo находится в файле README. В файле README ветки demo не хватает части текста,
+который есть в ветке master(with nice buttons on his jacket (buttons branch)). А файлы human.txt в ветках одинаковы.
